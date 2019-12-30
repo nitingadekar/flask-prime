@@ -1,0 +1,3 @@
+*.pyc
+flask_prime/*
+flask_prime
